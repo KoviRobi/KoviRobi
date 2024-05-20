@@ -1,13 +1,18 @@
 ### Hi there, I'm Rob K 🏳️‍🌈
 
-- 🔭 I’m currently working for Cambridge Consultants
-  - embedded (C, test rigs using pytest)
-  - embedded Linux (Elixir/Nerves/Phoenix)
-  - infrastructure (vSphere, Ansible, NixOS)
-- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working for Carallon
+  - embedded (C, C++)
+  - embedded Linux (Buildroot/Yocto)
+- 🌱 I’m currently learning Bluespec SystemVerilog (BSV)
+- 🖮 Side projects
+  > (Note I allow myself to flit between these as they are only hobby, so I make no promises about ever completing these projects)
+  - Coredump on the RP2040 without debugger https://github.com/KoviRobi/pico-bootrom-crashdump
+  - Mechanical keyboard
+  - Tiny tapeout and BSV
+  - Bootstrapping a language with maximal interaction/visibility -- this is an endless time sink, definitely not serious
 - 💬 Ask me about mechanical keyboards, Discworld
-- 😄 Pronouns: they/them or maybe he/him
-- 📫 How to reach me: email?
+- 🙋 Pronouns: any
+- 📫 How to reach me: email? Leave an issue/PR here?
 
 For a while I was supervising students at Cambridge (St Catharine's College), which I really enjoyed. I supervised
 
