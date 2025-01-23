@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Bluespec SystemVerilog (BSV)
 - 🖮 Side projects
   > (Note I allow myself to flit between these as they are only hobby, so I make no promises about ever completing these projects)
-  - Coredump on the RP2040 without debugger https://github.com/KoviRobi/pico-bootrom-crashdump
+  - Coredump on the RP2040 without debugger <https://github.com/KoviRobi/pico-bootrom-crashdump>
   - Mechanical keyboard
   - Tiny tapeout and BSV
   - Bootstrapping a language with maximal interaction/visibility -- this is an endless time sink, definitely not serious
